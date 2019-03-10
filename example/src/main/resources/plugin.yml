@@ -1,0 +1,6 @@
+name: InterGUIExample
+main: ru.spark.gui.example.ExamplePlugin
+author: Author
+version: 1.0
+commands:
+  menu:
